@@ -1,0 +1,1 @@
+brasil, uruguai, portugal, argetina, croacia, russia, japao, franca, alemanha, inglaterra, suica, suecia, belgica, ira, egito, colombia; brasil, uruguai, argetina, portugal, croacia, franca, suica, suecia; brasil, uruguai, franca, croacia; brasil, franca; croacia, franca.
